@@ -7,7 +7,7 @@
     "start": "nodemon app.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "koa": "^2.12.1",
     "koa-ejs": "^4.3.0",
     "koa-json": "^2.0.2",
